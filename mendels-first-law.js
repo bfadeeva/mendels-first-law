@@ -19,4 +19,4 @@ const probability =
   (m/p) * (n/(p-1)) * 0.5 +
   (n/p) * (m/(p-1)) * 0.5;
 
-console.log(probability.toFixed(5)); // 0.78333
+console.log(probability.toFixed(5));
